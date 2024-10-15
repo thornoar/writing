@@ -505,8 +505,8 @@ INPUT /nix/store/2ggpvybv6px1gf4kifrc9ssk1fv3qfwj-texlive-combined-2023-texmfdis
 INPUT /nix/store/2ggpvybv6px1gf4kifrc9ssk1fv3qfwj-texlive-combined-2023-texmfdist/fonts/tfm/public/tempora/Tempora-Regular-TLF-t2a.tfm
 INPUT /nix/store/2ggpvybv6px1gf4kifrc9ssk1fv3qfwj-texlive-combined-2023-texmfdist/fonts/tfm/public/tempora/Tempora-Regular-TLF-t2a.tfm
 INPUT /nix/store/2ggpvybv6px1gf4kifrc9ssk1fv3qfwj-texlive-combined-2023-texmfdist/fonts/tfm/public/tempora/Tempora-Italic-tlf-t1.tfm
-INPUT /nix/store/2ggpvybv6px1gf4kifrc9ssk1fv3qfwj-texlive-combined-2023-texmfdist/fonts/tfm/public/tempora/Tempora-Bold-TLF-t2a.tfm
 INPUT /nix/store/2ggpvybv6px1gf4kifrc9ssk1fv3qfwj-texlive-combined-2023-texmfdist/fonts/enc/dvips/mnsymbol/MnSymbolA.enc
+INPUT /nix/store/2ggpvybv6px1gf4kifrc9ssk1fv3qfwj-texlive-combined-2023-texmfdist/fonts/tfm/public/tempora/Tempora-Bold-TLF-t2a.tfm
 INPUT .aux/main.aux
 INPUT /nix/store/2ggpvybv6px1gf4kifrc9ssk1fv3qfwj-texlive-combined-2023-texmfdist/fonts/tfm/public/tempora/Tempora-Regular-tlf-t1.tfm
 INPUT /nix/store/2ggpvybv6px1gf4kifrc9ssk1fv3qfwj-texlive-combined-2023-texmfdist/fonts/type1/public/mnsymbol/MnSymbol12.pfb

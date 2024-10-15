@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1726941743.82958 "./main.tex" "main.pdf" "main" 1726941745.35283 0
-  "./main.tex" 1726941740.99461 102003 1f54186761b8cda2562ea2dc09a3f347 ""
-  ".aux/main.aux" 1726941745.0826 1082 20175680cc4a4d8c8b425471e9e848ee "pdflatex"
+["pdflatex"] 1728129532.1161 "./main.tex" "main.pdf" "main" 1728129533.71633 0
+  "./main.tex" 1728129531.16201 101894 9d4231360571d069bfb29bdb5d3e4f07 ""
+  ".aux/main.aux" 1728129533.39505 1082 ec08f0bad33536416c2ab2037a63bc1b "pdflatex"
   "/home/ramak/.texlive2023/texmf-var/fonts/tfm/lh/lh-t2a/larm1000.tfm" 1726941665.25829 3220 0e417eaf233b160335902e97259a6c77 ""
   "/home/ramak/projects/LaTeX-libraries/Graphics.tex" 1726929233.22781 594 c926ead8c5f949a4b468256d6360e479 ""
   "/home/ramak/projects/LaTeX-libraries/Math.tex" 1726929233.22881 9331 53de1034def1fe343cb62832c5d5dbec ""
@@ -267,7 +267,7 @@
   "/nix/store/53i4kdgfsqphpq78gcqwidhl84nd07ai-texlive-combined-2023/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1 5467741 b45401220d23ad4052ee7aa1c9d22839 ""
   "/nix/store/53i4kdgfsqphpq78gcqwidhl84nd07ai-texlive-combined-2023/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1 8221903 dc41026c94951fe60d8021b8f55bc941 ""
   "/nix/store/53i4kdgfsqphpq78gcqwidhl84nd07ai-texlive-combined-2023/share/texmf-var/web2c/texmf.cnf" 1 42803 761c03fe188929fcc77654103b800f77 ""
-  "main.tex" 1726941740.99461 102003 1f54186761b8cda2562ea2dc09a3f347 ""
+  "main.tex" 1728129531.16201 101894 9d4231360571d069bfb29bdb5d3e4f07 ""
   "pictures/sonnik2.png" 1715111020.94908 14018 3589145621058394d6ce73349964edac ""
   (generated)
   ".aux/main.aux"
