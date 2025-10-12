@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/nixos.org) (preloaded format=pdflatex 1980.1.1)  12 OCT 2025 17:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/nixos.org) (preloaded format=pdflatex 1980.1.1)  13 OCT 2025 00:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2468,11 +2468,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 193--194
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--200
-
- []
-
-
 
 [7] (.aux/main.aux
 LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
@@ -2486,7 +2481,7 @@ L3 programming layer <2025-01-18>
 Here is how much of TeX's memory you used:
  32415 strings out of 473201
  610939 string characters out of 5694756
- 1005576 words of memory out of 5000000
+ 1005574 words of memory out of 5000000
  55089 multiletter control sequences out of 15000+600000
  594233 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2496,7 +2491,7 @@ fonts/type1/public/tempora/Tempora-Bold.pfb></nix/store/37akh80n0rjvl2bkrkgvnkb
 8vdz1n0cz-texlive-combined-2024-texmfdist/fonts/type1/public/tempora/Tempora-It
 alic.pfb></nix/store/37akh80n0rjvl2bkrkgvnkb8vdz1n0cz-texlive-combined-2024-tex
 mfdist/fonts/type1/public/tempora/Tempora-Regular.pfb>
-Output written on .aux/main.pdf (7 pages, 119146 bytes).
+Output written on .aux/main.pdf (7 pages, 119113 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  49 compressed objects within 1 object stream

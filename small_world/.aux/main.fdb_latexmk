@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1760259828.6427 "./main.tex" "main.pdf" "main" 1760259829.34383 0
-  "./main.tex" 1760259828.07982 25435 2d82e0706efd126863697400fd1f7eb5 ""
-  ".aux/main.aux" 1760259829.23064 958 9ae483581a7c5b9742b81ecb0c166e09 "pdflatex"
+["pdflatex"] 1760285809.81008 "./main.tex" "main.pdf" "main" 1760285810.52746 0
+  "./main.tex" 1760285808.01533 25378 d0ede2c2bc5c54df709ec8a80ea5e63c ""
+  ".aux/main.aux" 1760285810.41169 958 9ae483581a7c5b9742b81ecb0c166e09 "pdflatex"
   "/home/ramak/.local/share/latex/Graphics.tex" 1755727061.11485 594 c926ead8c5f949a4b468256d6360e479 ""
   "/home/ramak/.local/share/latex/Math.tex" 1755727260.31731 9331 53de1034def1fe343cb62832c5d5dbec ""
   "/home/ramak/.local/share/latex/Russian.tex" 1751490597.46879 85 ab39438e2a73906f847b97ceb93e108d ""
@@ -212,7 +212,7 @@
   "/nix/store/7x25v55zbygakbmw7nq9hhpls0544p7v-texlive-combined-2024/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1 5467251 0706fa82db6ab377605680cae95efe5b ""
   "/nix/store/7x25v55zbygakbmw7nq9hhpls0544p7v-texlive-combined-2024/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1 3353267 3bf45cdebadc59d484009a655e2e94e9 ""
   "/nix/store/7x25v55zbygakbmw7nq9hhpls0544p7v-texlive-combined-2024/share/texmf-var/web2c/texmf.cnf" 1 43815 023a3612cdb17b0f93a74c7a27bb86ef ""
-  "main.tex" 1760259828.07982 25435 2d82e0706efd126863697400fd1f7eb5 ""
+  "main.tex" 1760285808.01533 25378 d0ede2c2bc5c54df709ec8a80ea5e63c ""
   "pictures/small_world.png" 1760071447.05535 12551 bf24cdfd26c073f9e970179cb28b919f ""
   (generated)
   ".aux/main.aux"
