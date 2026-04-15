@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/nixos.org) (preloaded format=pdflatex 1980.1.1)  14 APR 2026 11:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/nixos.org) (preloaded format=pdflatex 1980.1.1)  15 APR 2026 17:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -234,6 +234,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--55
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
 
 [2
 
@@ -246,18 +251,18 @@ L3 programming layer <2025-06-09>
 Here is how much of TeX's memory you used:
  2428 strings out of 467888
  42701 string characters out of 5412697
- 447319 words of memory out of 5000000
+ 449319 words of memory out of 5000000
  30978 multiletter control sequences out of 15000+600000
  639604 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,5n,65p,539b,158s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,5n,65p,571b,158s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </nix/store/60l31nr7ikg0ysgy760wzx2xcax7ngkx-texlive-combined-2025-texmfdist/
 fonts/type1/public/amsfonts/euler/eusm10.pfb></nix/store/60l31nr7ikg0ysgy760wzx
 2xcax7ngkx-texlive-combined-2025-texmfdist/fonts/type1/public/tex-gyre/qcsb.pfb
 ></nix/store/60l31nr7ikg0ysgy760wzx2xcax7ngkx-texlive-combined-2025-texmfdist/f
 onts/type1/public/tex-gyre/qcsr.pfb></nix/store/60l31nr7ikg0ysgy760wzx2xcax7ngk
 x-texlive-combined-2025-texmfdist/fonts/type1/public/tex-gyre/qcsri.pfb>
-Output written on .aux/main.pdf (2 pages, 77841 bytes).
+Output written on .aux/main.pdf (2 pages, 79314 bytes).
 PDF statistics:
  32 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream

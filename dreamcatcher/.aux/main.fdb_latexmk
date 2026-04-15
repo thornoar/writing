@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1776137777.24949 "./main.tex" "main.pdf" "main" 1776137777.47352 0
-  "./main.tex" 1776137775.37047 2969 e7125af5b13f508fd0e639e54f481c6e ""
-  ".aux/main.aux" 1776137777.4429 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
+["pdflatex"] 1776245249.91094 "./main.tex" "main.pdf" "main" 1776245250.15511 0
+  "./main.tex" 1776245248.74547 3551 4eec467a0aa933f44a732f42fb1f0cd4 ""
+  ".aux/main.aux" 1776245250.12653 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
   "/nix/store/60l31nr7ikg0ysgy760wzx2xcax7ngkx-texlive-combined-2025-texmfdist/fonts/enc/dvips/tex-gyre/q-rm.enc" 1 2409 c64dab22331c83731e970f6020b4448b ""
   "/nix/store/60l31nr7ikg0ysgy760wzx2xcax7ngkx-texlive-combined-2025-texmfdist/fonts/map/fontname/texfonts.map" 1 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/nix/store/60l31nr7ikg0ysgy760wzx2xcax7ngkx-texlive-combined-2025-texmfdist/fonts/tfm/public/amsfonts/euler/eusm10.tfm" 1 896 1783287efa3eab95c325db36ffb6426d ""
@@ -41,7 +41,7 @@
   "/nix/store/fkrvjv6sp5k6706r4iwsb8phwbjrlqfj-texlive-combined-2025/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1 5523635 ae7f280f9c87a20997cb858dffb8824e ""
   "/nix/store/fkrvjv6sp5k6706r4iwsb8phwbjrlqfj-texlive-combined-2025/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1 3600242 8d4cd588a5a30bdf6b38d9762459dcba ""
   "/nix/store/fkrvjv6sp5k6706r4iwsb8phwbjrlqfj-texlive-combined-2025/share/texmf-var/web2c/texmf.cnf" 1 44007 d92b95bf14ec1447abe1b377328a62d3 ""
-  "main.tex" 1776137775.37047 2969 e7125af5b13f508fd0e639e54f481c6e ""
+  "main.tex" 1776245248.74547 3551 4eec467a0aa933f44a732f42fb1f0cd4 ""
   (generated)
   ".aux/main.aux"
   ".aux/main.log"
