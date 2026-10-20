@@ -72,11 +72,9 @@ INPUT /nix/store/ijqi0cpj66lgiagj8g2pfgzsl1shb34m-texlive-combined-2025/share/te
 INPUT /nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/fonts/enc/dvips/tex-gyre/q-rm.enc
 INPUT /nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/fonts/tfm/public/tex-gyre/rm-qcsr.tfm
 INPUT /nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/fonts/tfm/public/tex-gyre/rm-qcsb.tfm
-INPUT /nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/fonts/tfm/public/tex-gyre/rm-qcsri.tfm
 INPUT /nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/fonts/tfm/public/tex-gyre/rm-qcsr.tfm
 INPUT /nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/fonts/tfm/public/tex-gyre/rm-qcsb.tfm
 INPUT .aux/main.aux
 INPUT /nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/fonts/type1/public/amsfonts/euler/eusm10.pfb
 INPUT /nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/fonts/type1/public/tex-gyre/qcsb.pfb
 INPUT /nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/fonts/type1/public/tex-gyre/qcsr.pfb
-INPUT /nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/fonts/type1/public/tex-gyre/qcsri.pfb
