@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1792857071.24069 "./main.tex" "main.pdf" "main" 1792857071.45278 0
-  "./main.tex" 1792857070.31512 11824 7bb78ccd05f91fc5a2bfec43ea5a23b1 ""
-  ".aux/main.aux" 1792857071.42768 196 3980417dc30b6ad9788e315d29d27a48 "pdflatex"
+["pdflatex"] 1792906451.50429 "./main.tex" "main.pdf" "main" 1792906451.74197 0
+  "./main.tex" 1792906449.63388 13242 7e9ca675ec5429a149768da2845900f3 ""
+  ".aux/main.aux" 1792906451.71623 196 456b7246a2c5828b67bca243a6b12a83 "pdflatex"
   "/nix/store/ijqi0cpj66lgiagj8g2pfgzsl1shb34m-texlive-combined-2025/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1 5541473 bb6e2ca2a8e4190dde6d693b0bf45eda ""
   "/nix/store/ijqi0cpj66lgiagj8g2pfgzsl1shb34m-texlive-combined-2025/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1 3636990 db7d1be250cd72e943a5ba1a7a9ca4e1 ""
   "/nix/store/ijqi0cpj66lgiagj8g2pfgzsl1shb34m-texlive-combined-2025/share/texmf-var/web2c/texmf.cnf" 1 44007 339ae5d3fe9cfa7e553a050e08b4f298 ""
@@ -41,7 +41,7 @@
   "/nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/tex/latex/nextpage/nextpage.sty" 1 1745 04b0f50af5d59a9cf3c17f3f4452ed12 ""
   "/nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/tex/latex/tex-gyre/ot1qcs.fd" 1 1658 0933485134291249d08e6cdbe3bfef71 ""
   "/nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/tex/latex/tex-gyre/tgschola.sty" 1 2206 62100c48d1511f2fff06657d0877bc14 ""
-  "main.tex" 1792857070.31512 11824 7bb78ccd05f91fc5a2bfec43ea5a23b1 ""
+  "main.tex" 1792906449.63388 13242 7e9ca675ec5429a149768da2845900f3 ""
   (generated)
   ".aux/main.aux"
   ".aux/main.log"
