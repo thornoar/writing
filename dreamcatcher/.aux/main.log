@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/nixos.org) (preloaded format=pdflatex 1980.1.1)  30 OCT 2026 13:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/nixos.org) (preloaded format=pdflatex 1980.1.1)  1 NOV 2026 00:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -253,17 +253,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 134--142
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--164
+Underfull \hbox (badness 10000) in paragraph at lines 159--163
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 178--182
+Underfull \hbox (badness 10000) in paragraph at lines 177--181
 
  []
 
 [5]
 Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--207
+
+ []
+
 [6
 
 ] (.aux/main.aux)
@@ -279,17 +289,20 @@ Here is how much of TeX's memory you used:
  31341 multiletter control sequences out of 15000+600000
  646601 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,5n,65p,384b,167s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,5n,65p,401b,167s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/
-fonts/type1/public/amsfonts/euler/eusm10.pfb></nix/store/x27vj6vrmvshnbpz6w65vk
-vqbs6rz7m3-texlive-combined-2025-texmfdist/fonts/type1/public/tex-gyre/qcsb.pfb
-></nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/f
-onts/type1/public/tex-gyre/qcsr.pfb></nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m
-3-texlive-combined-2025-texmfdist/fonts/type1/public/tex-gyre/qcsri.pfb>
-Output written on .aux/main.pdf (6 pages, 94022 bytes).
+fonts/type1/public/amsfonts/cm/cmr10.pfb></nix/store/x27vj6vrmvshnbpz6w65vkvqbs
+6rz7m3-texlive-combined-2025-texmfdist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+</nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/fo
+nts/type1/public/amsfonts/euler/eusm10.pfb></nix/store/x27vj6vrmvshnbpz6w65vkvq
+bs6rz7m3-texlive-combined-2025-texmfdist/fonts/type1/public/tex-gyre/qcsb.pfb><
+/nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/fon
+ts/type1/public/tex-gyre/qcsr.pfb></nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-
+texlive-combined-2025-texmfdist/fonts/type1/public/tex-gyre/qcsri.pfb>
+Output written on .aux/main.pdf (6 pages, 112625 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
- 27 compressed objects within 1 object stream
+ 54 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
