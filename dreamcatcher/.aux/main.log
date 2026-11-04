@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/nixos.org) (preloaded format=pdflatex 1980.1.1)  2 NOV 2026 18:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/nixos.org) (preloaded format=pdflatex 1980.1.1)  5 NOV 2026 00:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -81,6 +81,93 @@ File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 \Gin@req@width=\dimen150
 )
 (/nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/te
+x/latex/amsmath/amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+
+(/nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/te
+x/latex/amsmath/amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(/nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/te
+x/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen151
+))
+(/nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/te
+x/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen152
+)
+(/nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/te
+x/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count284
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count285
+\leftroot@=\count286
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count287
+\DOTSCASE@=\count288
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen153
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count289
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count290
+\dotsspace@=\muskip17
+\c@parentequation=\count291
+\dspbrk@lvl=\count292
+\tag@help=\toks19
+\row@=\count293
+\column@=\count294
+\maxfields@=\count295
+\andhelp@=\toks20
+\eqnshift@=\dimen154
+\alignsep@=\dimen155
+\tagshift@=\dimen156
+\tagwidth@=\dimen157
+\totwidth@=\dimen158
+\lineht@=\dimen159
+\@envbody=\toks21
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+)
+(/nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/te
+x/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/te
+x/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/te
 x/latex/epigraph/epigraph.sty
 Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
 
@@ -88,10 +175,10 @@ Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
 x/latex/nextpage/nextpage.sty
 Package: nextpage 2009/09/03 v1.1a additional page commands
 )
-\beforeepigraphskip=\skip51
-\afterepigraphskip=\skip52
-\epigraphwidth=\skip53
-\epigraphrule=\skip54
+\beforeepigraphskip=\skip54
+\afterepigraphskip=\skip55
+\epigraphwidth=\skip56
+\epigraphrule=\skip57
 )
 (/nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/te
 x/latex/geometry/geometry.sty
@@ -105,21 +192,21 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 x/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
-\Gm@cnth=\count284
-\Gm@cntv=\count285
-\c@Gm@tempcnt=\count286
-\Gm@bindingoffset=\dimen151
-\Gm@wd@mp=\dimen152
-\Gm@odd@mp=\dimen153
-\Gm@even@mp=\dimen154
-\Gm@layoutwidth=\dimen155
-\Gm@layoutheight=\dimen156
-\Gm@layouthoffset=\dimen157
-\Gm@layoutvoffset=\dimen158
-\Gm@dimlist=\toks18
+\Gm@cnth=\count296
+\Gm@cntv=\count297
+\c@Gm@tempcnt=\count298
+\Gm@bindingoffset=\dimen160
+\Gm@wd@mp=\dimen161
+\Gm@odd@mp=\dimen162
+\Gm@even@mp=\dimen163
+\Gm@layoutwidth=\dimen164
+\Gm@layoutheight=\dimen165
+\Gm@layouthoffset=\dimen166
+\Gm@layoutvoffset=\dimen167
+\Gm@dimlist=\toks23
 )
 LaTeX Font Info:    Trying to load font information for OT1+qcs on input line 2
-6.
+9.
 
 (/nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/te
 x/latex/tex-gyre/ot1qcs.fd
@@ -128,39 +215,39 @@ File: ot1qcs.fd 2009/09/25 v1.2 font definition file for OT1/qcs
 (/nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/te
 x/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count287
+\l__color_backend_stack_int=\count299
 ) (.aux/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 
 (/nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/te
 x/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count288
-\scratchdimen=\dimen159
-\scratchbox=\box53
-\nofMPsegments=\count289
-\nofMParguments=\count290
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count291
-\MPscratchDim=\dimen160
-\MPnumerator=\count292
-\makeMPintoPDFobject=\count293
-\everyMPtoPDFconversion=\toks20
+\scratchcounter=\count300
+\scratchdimen=\dimen168
+\scratchbox=\box55
+\nofMPsegments=\count301
+\nofMParguments=\count302
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count303
+\MPscratchDim=\dimen169
+\MPnumerator=\count304
+\makeMPintoPDFobject=\count305
+\everyMPtoPDFconversion=\toks25
 )
 (/nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/te
 x/latex/epstopdf-pkg/epstopdf-base.sty
@@ -207,70 +294,73 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 36.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 36.
-LaTeX Font Info:    Trying to load font information for U+eus on input line 36.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
 
 
 (/nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/te
-x/latex/amsfonts/ueus.fd
-File: ueus.fd 2013/01/14 v3.01 Euler Script
+x/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
+
+
+(/nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/te
+x/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+euf on input line 39.
+
+
+(/nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/te
+x/latex/amsfonts/ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
 ) [1
 
 {/nix/store/ijqi0cpj66lgiagj8g2pfgzsl1shb34m-texlive-combined-2025/share/texmf-
 var/fonts/map/pdftex/updmap/pdftex.map}{/nix/store/x27vj6vrmvshnbpz6w65vkvqbs6r
 z7m3-texlive-combined-2025-texmfdist/fonts/enc/dvips/tex-gyre/q-rm.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 65--72
+Underfull \hbox (badness 10000) in paragraph at lines 68--75
 
  []
 
 [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 112--114
+Underfull \hbox (badness 10000) in paragraph at lines 115--117
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--120
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--124
+Underfull \hbox (badness 10000) in paragraph at lines 124--127
 
  []
 
 
 LaTeX Font Warning: Font shape `OT1/qcs/m/sl' in size <10> not available
-(Font)              Font shape `OT1/qcs/m/it' tried instead on input line 133.
+(Font)              Font shape `OT1/qcs/m/it' tried instead on input line 136.
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 134--142
+Underfull \hbox (badness 10000) in paragraph at lines 137--145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--163
+Underfull \hbox (badness 10000) in paragraph at lines 162--166
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 177--181
+Underfull \hbox (badness 10000) in paragraph at lines 180--184
 
  []
 
 [5]
-Chapter 1.
-
-Underfull \hbox (badness 10000) in paragraph at lines 194--197
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 203--206
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
 
  []
 
@@ -283,23 +373,23 @@ L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2436 strings out of 467533
- 42839 string characters out of 5398125
- 461876 words of memory out of 5000000
- 31341 multiletter control sequences out of 15000+600000
- 646601 words of font info for 49 fonts, out of 8000000 for 9000
+ 3669 strings out of 467533
+ 58720 string characters out of 5398125
+ 474984 words of memory out of 5000000
+ 32539 multiletter control sequences out of 15000+600000
+ 642307 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,5n,65p,401b,167s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,5n,65p,472b,173s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/
 fonts/type1/public/amsfonts/cm/cmr10.pfb></nix/store/x27vj6vrmvshnbpz6w65vkvqbs
 6rz7m3-texlive-combined-2025-texmfdist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
 </nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/fo
-nts/type1/public/amsfonts/euler/eusm10.pfb></nix/store/x27vj6vrmvshnbpz6w65vkvq
+nts/type1/public/amsfonts/euler/eufm10.pfb></nix/store/x27vj6vrmvshnbpz6w65vkvq
 bs6rz7m3-texlive-combined-2025-texmfdist/fonts/type1/public/tex-gyre/qcsb.pfb><
 /nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-texlive-combined-2025-texmfdist/fon
 ts/type1/public/tex-gyre/qcsr.pfb></nix/store/x27vj6vrmvshnbpz6w65vkvqbs6rz7m3-
 texlive-combined-2025-texmfdist/fonts/type1/public/tex-gyre/qcsri.pfb>
-Output written on .aux/main.pdf (7 pages, 115721 bytes).
+Output written on .aux/main.pdf (7 pages, 117034 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
