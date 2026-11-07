@@ -102,8 +102,6 @@ INPUT /nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdis
 INPUT /nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdist/fonts/tfm/public/tex-gyre/rm-qcsb.tfm
 INPUT /nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdist/fonts/tfm/public/tex-gyre/rm-qcsri.tfm
 INPUT .aux/main.aux
-INPUT /nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdist/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT /nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdist/fonts/type1/public/amsfonts/cm/cmr7.pfb
 INPUT /nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdist/fonts/type1/public/amsfonts/euler/eufm10.pfb
 INPUT /nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdist/fonts/type1/public/tex-gyre/qcsb.pfb
 INPUT /nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdist/fonts/type1/public/tex-gyre/qcsr.pfb

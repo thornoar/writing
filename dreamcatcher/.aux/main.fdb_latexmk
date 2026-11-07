@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1794043608.56612 "./main.tex" "main.pdf" "main" 1794043608.80219 0
-  "./main.tex" 1794043607.85147 21350 fbf3347b4fe02c750ac493bbb8a4b902 ""
-  ".aux/main.aux" 1794043608.77304 32 4d1825978335c8847f72f7c473f9edc8 "pdflatex"
+["pdflatex"] 1794064301.36114 "./main.tex" "main.pdf" "main" 1794064301.60307 0
+  "./main.tex" 1794064299.93311 14835 55a76e273a8c00d63cf7f47471107224 ""
+  ".aux/main.aux" 1794064301.57359 32 77e0dffd05b653a64f0caf3eb9bb454a "pdflatex"
   "/nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdist/fonts/enc/dvips/tex-gyre/q-rm.enc" 1 2409 c64dab22331c83731e970f6020b4448b ""
   "/nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdist/fonts/map/fontname/texfonts.map" 1 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1 1004 54797486969f23fa377b128694d548df ""
@@ -17,8 +17,6 @@
   "/nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdist/fonts/tfm/public/tex-gyre/rm-qcsb.tfm" 1 12232 7a72a85f7eab78aca6ed8ec45aea66f9 ""
   "/nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdist/fonts/tfm/public/tex-gyre/rm-qcsr.tfm" 1 12364 865dc033efbe222a2714bb7c172a9861 ""
   "/nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdist/fonts/tfm/public/tex-gyre/rm-qcsri.tfm" 1 12140 0735e63a1b55d1a30a9e71d824c2f067 ""
-  "/nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1 35752 024fb6c41858982481f6968b5fc26508 ""
-  "/nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdist/fonts/type1/public/amsfonts/euler/eufm10.pfb" 1 21098 d4aee7c0aac232caac5688b586b9363c ""
   "/nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdist/fonts/type1/public/tex-gyre/qcsb.pfb" 1 127822 2c015c51e018288cae6240e5b1c6a8c4 ""
   "/nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdist/fonts/type1/public/tex-gyre/qcsr.pfb" 1 127294 cc1039cc4d454907a19f7c1711f8739b ""
@@ -59,7 +57,7 @@
   "/nix/store/gx5hj04z7f2g88rj0m95dhj7p2mkwi13-texlive-combined-2025/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1 5541473 fb6a2a08a42ac8c90f0245c0e0a43d23 ""
   "/nix/store/gx5hj04z7f2g88rj0m95dhj7p2mkwi13-texlive-combined-2025/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1 3637002 edd94f66e0c3caa2689e26318ee977ad ""
   "/nix/store/gx5hj04z7f2g88rj0m95dhj7p2mkwi13-texlive-combined-2025/share/texmf-var/web2c/texmf.cnf" 1 44007 5d80eeb076046a5972132efead5517bf ""
-  "main.tex" 1794043607.85147 21350 fbf3347b4fe02c750ac493bbb8a4b902 ""
+  "main.tex" 1794064299.93311 14835 55a76e273a8c00d63cf7f47471107224 ""
   (generated)
   ".aux/main.aux"
   ".aux/main.log"
