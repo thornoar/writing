@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1794024357.20139 "./main.tex" "main.pdf" "main" 1794024357.43473 0
-  "./main.tex" 1794024356.21511 21168 34cb73e38dfbb832ba1b68c5438d50dd ""
-  ".aux/main.aux" 1794024357.40601 32 4d1825978335c8847f72f7c473f9edc8 "pdflatex"
+["pdflatex"] 1794039719.94358 "./main.tex" "main.pdf" "main" 1794039720.18255 0
+  "./main.tex" 1794039718.6753 21185 513299c81e337340f3559b45f31a86ab ""
+  ".aux/main.aux" 1794039720.14809 32 4d1825978335c8847f72f7c473f9edc8 "pdflatex"
   "/nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdist/fonts/enc/dvips/tex-gyre/q-rm.enc" 1 2409 c64dab22331c83731e970f6020b4448b ""
   "/nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdist/fonts/map/fontname/texfonts.map" 1 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/nix/store/07jmfjcx98mfa3l654m4wzihrw479rd6-texlive-combined-2025-texmfdist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1 1004 54797486969f23fa377b128694d548df ""
@@ -59,7 +59,7 @@
   "/nix/store/gx5hj04z7f2g88rj0m95dhj7p2mkwi13-texlive-combined-2025/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1 5541473 fb6a2a08a42ac8c90f0245c0e0a43d23 ""
   "/nix/store/gx5hj04z7f2g88rj0m95dhj7p2mkwi13-texlive-combined-2025/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1 3637002 edd94f66e0c3caa2689e26318ee977ad ""
   "/nix/store/gx5hj04z7f2g88rj0m95dhj7p2mkwi13-texlive-combined-2025/share/texmf-var/web2c/texmf.cnf" 1 44007 5d80eeb076046a5972132efead5517bf ""
-  "main.tex" 1794024356.21511 21168 34cb73e38dfbb832ba1b68c5438d50dd ""
+  "main.tex" 1794039718.6753 21185 513299c81e337340f3559b45f31a86ab ""
   (generated)
   ".aux/main.aux"
   ".aux/main.log"
