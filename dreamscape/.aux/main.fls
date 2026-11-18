@@ -1,4 +1,4 @@
-PWD /home/ramak/projects/writing/dreamcatcher
+PWD /home/ramak/projects/writing/dreamscape
 INPUT /nix/store/gx5hj04z7f2g88rj0m95dhj7p2mkwi13-texlive-combined-2025/share/texmf-var/web2c/texmf.cnf
 INPUT /nix/store/gx5hj04z7f2g88rj0m95dhj7p2mkwi13-texlive-combined-2025/share/texmf-var/web2c/pdftex/pdflatex.fmt
 INPUT ./main.tex
